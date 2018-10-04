@@ -11,10 +11,10 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Design - Working with styles & colors.xml](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### Splash screen in Android
+# Splash Screen
 
-* #### [Using Timers](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-* #### [Using Theme Background](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Splash Screen using Timers](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Splash Screen using Theme Background](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 
 ## Media & Images

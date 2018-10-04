@@ -5,48 +5,46 @@ This repo is to help students/professionals who are at beginning stage of learni
 We have developed simple sample applications to help people understand Android development. Please refer below list for more details.
 
 
-## Design 
+## [Design - Working with styles & colors.xml](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-To make design changes in Android, you may have to work with styles.xml & colors.xml usually residing at **res/values**
+## [App Bar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-By default, styles.xml comes with values like colorPrimary, colorPrimaryDark & colorAccent for the default theme applied to your app
+## [Consuming REST Service](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### styles.xml
-```xml
-<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-    <!-- Customize your theme here. -->
-    <item name="colorPrimary">@color/colorPrimary</item>
-    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-    <item name="colorAccent">@color/colorAccent</item>
-</style>
-```
+## [Open Image from Gallery](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-@color refers to the properties in color.xml file (available in res/values/colors.xml)
+## [Capture Photo](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### colors.xml
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!--   color for the app bar and other primary UI elements -->
-    <color name="colorPrimary">#3F51B5</color>
+## [Firebase Auth - Email & Password](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-    <!--   used for the status bar -->
-    <color name="colorPrimaryDark">#303F9F</color>
+## [Firebase - Database](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-    <!--   a secondary color for controls like checkboxes and text fields -->
-    <color name="colorAccent">#FF4081</color>
-</resources>
-```
+## [Uploading Image to Firebase](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-If you want to change background color of your app, simply add the following item in styles.xml 
+## [Sending & Receiving Data from one app to other](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-```xml
-<item name="android:windowBackground">@color/activityBackground</item>
-```
+## [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-and below in colors.xml
+## [Login in Facebook](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-```xml
-<color name="activityBackground">#3F51B5</color>
-```
+## [NavigationDrawer](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+## [NavigationDrawer with Fragment](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Working with Images using Picasso](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Floating Action Button, Swipe Refresh Layout](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [List View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Android Database - MySQLite](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Checkbox, Radiobutton, Ratingbar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## [Splash screen in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)

@@ -1,4 +1,4 @@
-# Creating Gradient Background
+# Creating Gradient Background in Android
 
 > For code sample using gradient colors, refer [SplashScreen_UsingTimers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
 ## What is Gradient ?
@@ -38,6 +38,19 @@
     <color name="bg_start_color">#3399ff</color>
     <color name="bg_end_color">#ffffff</color>
 </resources>
+```
+
+## Where to use this my_gradient we created ?
+
+> We can use it as background design for any layout like below
+
+```xml
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient" >
+   
+</RelativeLayout>
 ```
 
 ## How to preview my gradient color combination ?

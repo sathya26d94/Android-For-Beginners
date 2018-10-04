@@ -11,6 +11,7 @@
 
 #### drawable/my_gradient.xml
 
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
@@ -22,6 +23,7 @@
         </shape>
     </item>
 </selector>
+```
 
 > startColor & endColor forms the two gradient colors & angle helps the direction for color to flow
 

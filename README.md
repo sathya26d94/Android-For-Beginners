@@ -11,6 +11,8 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Design - Working with styles & colors.xml](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+### [Gradient Color in Android](https://github.com/iamvickyav/Android-For-Beginners/edit/master/gradient.md)
+
 # Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)

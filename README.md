@@ -7,7 +7,7 @@ We have developed simple sample applications to help people understand Android d
 # Basic Concepts
 ## UI Components
 
-### [EditText, TextView, Checkbox, Radiobutton, Ratingbar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [EditText, TextView, Checkbox, Radiobutton, Ratingbar](https://github.com/sathya26d94/FormWithDataBaseSample)
 
 ### [Design - Working with styles & colors.xml](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 

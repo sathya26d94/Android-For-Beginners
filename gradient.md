@@ -1,5 +1,6 @@
 # Creating Gradient Background
 
+> For code sample using gradient colors, refer [SplashScreen_UsingTimers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
 ## What is Gradient ?
 
 > A term used in computer graphics to describe a fluid range of color filling an area
@@ -37,6 +38,6 @@
 </resources>
 ```
 
-### How to preview my gradient color combination ?
+## How to preview my gradient color combination ?
 
 > Use the [W3Schools Color gradients picker](https://www.w3schools.com/colors/colors_gradient.asp) 

@@ -7,11 +7,18 @@ We have developed simple sample applications to help people understand Android d
 # Basic Concepts
 ## UI Components
 
+### [EditText, TextView, Checkbox, Radiobutton, Ratingbar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
 ### [Design - Working with styles & colors.xml](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Splash screen in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+
+## Media & Images
+
 ### [Capture Photo](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Open Image from Gallery](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ## Navigation
 
@@ -23,10 +30,20 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Maintaining State between Portrait/Landscape mode](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Open Image from Gallery](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [NavigationDrawer](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [NavigationDrawer with Fragment](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## Working with List in Android
+
+### [List View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 # Advances Concepts
-## Working Internet, Firebase & Social Login
+## Working Internet, Firebase
 
 ### [Consuming REST Service](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
@@ -36,26 +53,16 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Uploading Image to Firebase](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+## Social Login
 
 ### [Login in Facebook](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [NavigationDrawer](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [NavigationDrawer with Fragment](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Working with Images using Picasso](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Floating Action Button, Swipe Refresh Layout](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [List View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Android Database - MySQLite](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Checkbox, Radiobutton, Ratingbar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)

@@ -30,7 +30,7 @@ protected void onSaveInstanceState (Bundle bundle) {
 }
 ```
 
-> Whenever use changes orientation, Android will call onSaveInstance() method, where we saved current value from EditText into a bundle. When onCreate() called after orientation changes, first check if the savedInstanceState is not null. if its not null, you can assume the Activity is recreated after change in orientation
+> Whenever use changes orientation, Android will call onSaveInstance() method, where we save state of EditText into a bundle. When onCreate() called after orientation changes, **first check if the savedInstanceState is not null**. if its not null, you can assume the Activity is recreated after change in orientation
 
 > When the app is opened for the first time, savedInstanceState param in onCreate() will be null
 

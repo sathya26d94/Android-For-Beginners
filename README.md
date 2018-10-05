@@ -15,8 +15,8 @@ We have developed simple sample applications to help people understand Android d
 
 # Splash Screen
 
-### [Splash Screen using Timers](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-### [Splash Screen using Theme Background](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
+### [Splash Screen using Theme Background](https://github.com/iamvickyav/SplashScreen_UsingThemeBackground/blob/master/README.md)
 
 
 ## Media & Images

@@ -6,7 +6,7 @@ Lets say, if user is filling a form in a screen. If user knowingly/unknowlingly 
 
 So its the responsibility of the developer to maintain the state of components even if user changes orientation
 
-Here is the simple tutorial on how to save state & retrieve state after orientation change
+Here is the simple tutorial on how to save & retrieve state after orientation change
 
 ## Retaining components state on Orientation change
 

@@ -5,6 +5,7 @@ This repo is to help students/professionals who are at beginning stage of learni
 We have developed simple sample applications to help people understand Android development. Please refer below list for more details.
 
 # Basic Concepts
+
 ## UI Components
 
 ### [EditText, TextView, Checkbox, Radiobutton, Ratingbar](https://github.com/sathya26d94/FormWithDataBaseSample)
@@ -13,13 +14,19 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Gradient Color in Android](https://github.com/iamvickyav/Android-For-Beginners/edit/master/gradient.md)
 
-### [Handling Orientation Changes](https://github.com/iamvickyav/Android-For-Beginners/blob/master/orientation_change.md)
-
 ### [Floating Action Button, Swipe Refresh Layout](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md) 
+## Useful Stuffs
 
-# Splash Screen
+### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md)
+
+### [Handling Orientation Changes](https://github.com/iamvickyav/Android-For-Beginners/blob/master/orientation_change.md)
+
+### [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
 ### [Splash Screen using Theme Background](https://github.com/iamvickyav/SplashScreen_UsingThemeBackground/blob/master/README.md)
@@ -44,20 +51,25 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+## NavigationDrawer
+
 ### [NavigationDrawer](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [NavigationDrawer with Fragment](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-## Working with List in Android
+## List in Android
 
 ### [List View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 # Advances Concepts
-## Working Internet, Firebase
+
+## Consuming REST Endpoints
 
 ### [Consuming REST Service](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## Working with Firebase
 
 ### [Firebase Auth - Email & Password](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
@@ -69,8 +81,8 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Login in Facebook](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+## Database in Android
 
-### [Android Database - MySQLite](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Using SQLite](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [SQLite with ORM](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)

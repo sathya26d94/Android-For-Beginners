@@ -26,6 +26,10 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Permissions](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Maintaining State between Portrait/Landscape mode](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
 ## Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
@@ -33,7 +37,7 @@ We have developed simple sample applications to help people understand Android d
 
 ## Intents
 
-### [Navigate between Activity](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Navigate between Activities](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md)
 
@@ -49,11 +53,11 @@ We have developed simple sample applications to help people understand Android d
 
 ### [App Bar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+### [Working with Tabs](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+## Sharing Data
+
 ### [Sending & Receiving Data from one app to other](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Maintaining State between Portrait/Landscape mode](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ## NavigationDrawer
 
@@ -67,7 +71,7 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-# Advances Concepts
+# Advanced Concepts
 
 ## Consuming REST Endpoints
 

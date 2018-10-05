@@ -21,9 +21,9 @@ We have developed simple sample applications to help people understand Android d
 
 ## Media & Images
 
-### [Capture Photo](https://github.com/iamvickyav/CapturePhoto_Android/blob/master/README.md)
+### [Capture Photo](https://github.com/iamvickyav/PicFromGalleryAndCamera_Android/blob/master/README.md)
 
-### [Open Image from Gallery](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Open Image from Gallery](https://github.com/iamvickyav/PicFromGalleryAndCamera_Android/blob/master/README.md)
 
 ## Navigation
 

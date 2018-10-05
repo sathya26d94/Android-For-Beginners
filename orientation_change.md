@@ -1,10 +1,10 @@
 # Working with Orientation Change in Android App
 
-When user change orientation of phone from portrait to landscape, Android destroys your current activity and creates a new activity by calling onCreate() method in your current Activity.
+When user changes orientation of phone from portrait to landscape, **Android destroys your current activity and creates a new activity by calling onCreate() method in your current Activity**
 
-Lets say, if user is feeding his personal details in an Activity. If user knowingly/unknowlingly changes orientation of phone, all the data user enter till that point will be wiped & the screen will be created freshly. User may not like this behaviour, as they have to enter all the details again from start.
+Lets say, if user is filling a form in a screen. If user knowingly/unknowlingly changes orientation of phone, all the data user enter will be wiped & the screen will be created freshly. User may not like this behaviour, as they have to enter all the details again from start
 
-So its the responsibility of the developer to maintain the state of components even if user changes orientation.
+So its the responsibility of the developer to maintain the state of components even if user changes orientation
 
 Here is the simple tutorial on how to save state & retrieve state after orientation change
 
@@ -30,7 +30,7 @@ protected void onSaveInstanceState (Bundle bundle) {
 }
 ```
 
-> Whenever use changes orientation, Android will call onSaveInstance() method, where we saved current value from EditText into a bundle. When onCreate() called after orientation changes, first check if the savedInstanceState is not null. if its not null, you can assume the Activity is recreated after change in orientation.
+> Whenever use changes orientation, Android will call onSaveInstance() method, where we saved current value from EditText into a bundle. When onCreate() called after orientation changes, first check if the savedInstanceState is not null. if its not null, you can assume the Activity is recreated after change in orientation
 
 > When the app is opened for the first time, savedInstanceState param in onCreate() will be null
 

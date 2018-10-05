@@ -18,18 +18,24 @@ We have developed simple sample applications to help people understand Android d
 
 ## Useful Stuffs
 
-### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md)
-
 ### [Handling Orientation Changes](https://github.com/iamvickyav/Android-For-Beginners/blob/master/orientation_change.md)
 
 ### [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+### [Permissions](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
 ## Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
 ### [Splash Screen using Theme Background](https://github.com/iamvickyav/SplashScreen_UsingThemeBackground/blob/master/README.md)
+
+## Intents
+
+### [Navigate between Activity](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md)
 
 ## Media & Images
 
@@ -42,8 +48,6 @@ We have developed simple sample applications to help people understand Android d
 ## Navigation
 
 ### [App Bar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Intents](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Sending & Receiving Data from one app to other](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 

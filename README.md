@@ -13,11 +13,12 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Gradient Color in Android](https://github.com/iamvickyav/Android-For-Beginners/edit/master/gradient.md)
 
+### [Handling Orientation Changes](https://github.com/iamvickyav/Android-For-Beginners/blob/master/orientation_change.md)
+
 # Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
 ### [Splash Screen using Theme Background](https://github.com/iamvickyav/SplashScreen_UsingThemeBackground/blob/master/README.md)
-
 
 ## Media & Images
 

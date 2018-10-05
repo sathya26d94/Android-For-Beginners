@@ -15,6 +15,10 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Handling Orientation Changes](https://github.com/iamvickyav/Android-For-Beginners/blob/master/orientation_change.md)
 
+### [Floating Action Button, Swipe Refresh Layout](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+
+### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md) 
+
 # Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
@@ -25,6 +29,8 @@ We have developed simple sample applications to help people understand Android d
 ### [Capture Photo](https://github.com/iamvickyav/PicFromGalleryAndCamera_Android/blob/master/README.md)
 
 ### [Open Image from Gallery](https://github.com/iamvickyav/PicFromGalleryAndCamera_Android/blob/master/README.md)
+
+### [Working with Images using Picasso](https://github.com/iamvickyav/ImageViewWIthPicaso/blob/master/README.md)
 
 ## Navigation
 
@@ -62,10 +68,6 @@ We have developed simple sample applications to help people understand Android d
 ## Social Login
 
 ### [Login in Facebook](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Working with Images using Picasso](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
-### [Floating Action Button, Swipe Refresh Layout](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 

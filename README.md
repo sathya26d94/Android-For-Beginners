@@ -22,9 +22,9 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Getting current location in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
-### [Broadcast Receiver](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Broadcast Receiver](https://github.com/iamvickyav/example-android-broadcast-receiver/blob/master/app/src/main/java/com/rambabusaravanan/broadcastreceiver/MainActivity.java)
 
-### [Permissions](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Permissions](https://developer.android.com/guide/topics/permissions/overview)
 
 ### [Deeplinking in Android](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
@@ -39,7 +39,7 @@ We have developed simple sample applications to help people understand Android d
 
 ## Intents
 
-### [Navigate between Activities](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Navigate between Activities](https://developer.android.com/training/basics/firstapp/starting-activity)
 
 ### [Open any Settings like Wifi, Data, Location from your App](https://github.com/iamvickyav/Android-For-Beginners/blob/master/open_any_settings.md)
 
@@ -53,25 +53,25 @@ We have developed simple sample applications to help people understand Android d
 
 ## Navigation
 
-### [App Bar](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Toolbar](https://github.com/iamvickyav/ImageViewWIthPicaso/blob/master/README.md)
 
 ### [Working with Tabs](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ## Sharing Data
 
-### [Sending & Receiving Data from one app to other](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Sending & Receiving Data from one app to other](https://github.com/iamvickyav/TextShareInAndroid/blob/master/README.md)
 
 ## NavigationDrawer
 
-### [NavigationDrawer](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [NavigationDrawer](https://github.com/iamvickyav/NavigationDrawer_Sample/blob/master/README.md)
 
-### [NavigationDrawer with Fragment](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [NavigationDrawer with Fragment](https://github.com/iamvickyav/NavigationDrawerWithFragment/blob/master/README.md)
 
 ## List in Android
 
-### [List View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [List View](https://github.com/iamvickyav/cricket_central/blob/master/README.md)
 
-### [Recycler View](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Recycler View](https://github.com/iamvickyav/RecyclerViewSample/blob/master/README.md)
 
 # Advanced Concepts
 

@@ -30,6 +30,8 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Maintaining State between Portrait/Landscape mode](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
+### [Click back button twice to exit Application](https://github.com/iamvickyav/Android-For-Beginners/blob/master/back_button.md)
+
 ## Splash Screen
 
 ### [Splash Screen using Timers](https://github.com/iamvickyav/SplashScreen_UsingTimer/blob/master/README.md)
@@ -75,11 +77,11 @@ We have developed simple sample applications to help people understand Android d
 
 ## Consuming REST Endpoints
 
-### [Consuming REST Service](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Retrofit](https://github.com/iamvickyav/FindMyIPAddress_DEMO/blob/master/README.md)
 
 ## Working with Firebase
 
-### [Firebase Auth - Email & Password](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Firebase Auth - Email & Password](https://github.com/iamvickyav/FirebaseEmailPasswordSample/blob/master/README.md)
 
 ### [Firebase - Database](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
@@ -87,10 +89,10 @@ We have developed simple sample applications to help people understand Android d
 
 ## Social Login
 
-### [Login in Facebook](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Login in Facebook](https://github.com/iamvickyav/LoginWithFB_Android/blob/master/README.md)
 
 ## Database in Android
 
-### [Using SQLite](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Using SQLite](https://github.com/iamvickyav/mynote-android-sqlite/blob/master/src/com/example/mynoteswithdb/DBClass.java)
 
-### [SQLite with ORM](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [SQLite with ORM](https://github.com/sathya26d94/FormWithDataBaseSample/blob/master/README.md)

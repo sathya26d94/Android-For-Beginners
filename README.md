@@ -55,7 +55,7 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Toolbar](https://github.com/iamvickyav/ImageViewWIthPicaso/blob/master/README.md)
 
-### [Working with Tabs](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
+### [Working with Tabs](https://github.com/sathya26d94/TabsSample)
 
 ## Sharing Data
 

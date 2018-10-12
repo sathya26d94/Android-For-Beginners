@@ -96,3 +96,15 @@ We have developed simple sample applications to help people understand Android d
 ### [Using SQLite](https://github.com/iamvickyav/mynote-android-sqlite/blob/master/src/com/example/mynoteswithdb/DBClass.java)
 
 ### [SQLite with ORM](https://github.com/sathya26d94/FormWithDataBaseSample/blob/master/README.md)
+
+## Upcoming
+
+### Activity & Life cycle
+
+### Intent & types of Intent
+
+### Service
+
+### Notification & Push Notification
+
+### Creating your own theme

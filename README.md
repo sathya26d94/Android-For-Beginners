@@ -83,8 +83,6 @@ We have developed simple sample applications to help people understand Android d
 
 ### [Firebase Auth - Email & Password](https://github.com/iamvickyav/FirebaseEmailPasswordSample/blob/master/README.md)
 
-### [Firebase - Database](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
-
 ### [Uploading Image to Firebase](https://github.com/iamvickyav/Android-For-Beginners/blob/master/design.md)
 
 ## Social Login
@@ -112,3 +110,5 @@ We have developed simple sample applications to help people understand Android d
 ### Appbar
 
 ### Content Provider
+
+### Firebase - Database
